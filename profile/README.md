@@ -58,9 +58,11 @@ The atlas covers the technologies that matter most to production enterprise AI: 
 | **[awesome-rag](https://github.com/Enterprise-AI-Atlas/awesome-rag)** | Retrieval-augmented generation frameworks and tools |
 | **[awesome-vector-databases](https://github.com/Enterprise-AI-Atlas/awesome-vector-databases)** | Vector databases and embedding storage systems |
 
-## Need implementation help?
+## Want us to build this for you?
 
-Enterprise AI Atlas is maintained by [Vibe Coding Agency](https://vibecodingagency.com). If your team needs support designing, building, or deploying enterprise AI systems — from agentic skills and MCP servers to NVIDIA and Oracle integrations — [get in touch](https://vibecodingagency.com).
+Enterprise AI Atlas is maintained by [Vibe Coding Agency](https://vibecodingagency.com). We prototype and ship agentic systems, MCP servers, and enterprise AI integrations for teams that need working software fast — without hiring a full AI engineering team.
+
+**Free guide:** [The Non-Technical Founder's Guide to Agentic AI](https://vibecodingagency.com/resources/white-papers/non-technical-founders-guide-agentic-ai.pdf) — what agents and MCP servers are, and how to get a system built.
 
 ## For agentic consumers
 
