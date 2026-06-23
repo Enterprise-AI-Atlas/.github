@@ -6,6 +6,8 @@ A vendor-neutral atlas of canonical resources for enterprise AI platforms — cu
 
 ## What you'll find here
 
+### Vendor-specific atlases
+
 | Repository | Focus |
 |---|---|
 | **[awesome-nvidia-agentic-skills-mcp](https://github.com/Enterprise-AI-Atlas/awesome-nvidia-agentic-skills-mcp)** | Agentic skills and MCP servers for NVIDIA products |
@@ -14,6 +16,20 @@ A vendor-neutral atlas of canonical resources for enterprise AI platforms — cu
 | **[awesome-nvidia-licensing](https://github.com/Enterprise-AI-Atlas/awesome-nvidia-licensing)** | NVIDIA software and GPU licensing compliance |
 | **[awesome-nvidia-tts](https://github.com/Enterprise-AI-Atlas/awesome-nvidia-tts)** | Text-to-speech with NVIDIA technology |
 | **[awesome-oracle-agentic-skills-mcp](https://github.com/Enterprise-AI-Atlas/awesome-oracle-agentic-skills-mcp)** | Agentic skills and MCP servers for Oracle products |
+| **[nvidia-skills-directory](https://github.com/Enterprise-AI-Atlas/nvidia-skills-directory)** | Directory of NVIDIA agentic skills |
+| **[oracle-skills-directory](https://github.com/Enterprise-AI-Atlas/oracle-skills-directory)** | Directory of Oracle agentic skills |
+
+### Technology-specific atlases
+
+| Repository | Focus |
+|---|---|
+| **[awesome-ai-coding-agents](https://github.com/Enterprise-AI-Atlas/awesome-ai-coding-agents)** | AI coding agents and autonomous coding tools |
+| **[awesome-gpu-cloud](https://github.com/Enterprise-AI-Atlas/awesome-gpu-cloud)** | GPU cloud providers and platforms |
+| **[awesome-local-llms](https://github.com/Enterprise-AI-Atlas/awesome-local-llms)** | Local and on-premises LLM tools and models |
+| **[awesome-mcp-servers](https://github.com/Enterprise-AI-Atlas/awesome-mcp-servers)** | Model Context Protocol servers and clients |
+| **[awesome-open-source-llms](https://github.com/Enterprise-AI-Atlas/awesome-open-source-llms)** | Open-source large language models and frameworks |
+| **[awesome-rag](https://github.com/Enterprise-AI-Atlas/awesome-rag)** | Retrieval-augmented generation frameworks and tools |
+| **[awesome-vector-databases](https://github.com/Enterprise-AI-Atlas/awesome-vector-databases)** | Vector databases and embedding storage systems |
 
 ## For agentic consumers
 
